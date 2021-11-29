@@ -1,7 +1,7 @@
 {
   "name": "#basename",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "src/index.tsx",
   "description": "#basename is as a Django app",
   "license": "MIT",
   "scripts": {
