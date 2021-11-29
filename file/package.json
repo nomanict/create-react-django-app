@@ -1,0 +1,10 @@
+{
+  "name": "#basename",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "description": "#basename is as a Django app",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  }
+}

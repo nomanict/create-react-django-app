@@ -1,0 +1,26 @@
+{
+  "name": "create-react-django-app",
+  "version": "1.0.1",
+  "description": "React and Django in one server",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomanict/create-react-django-app.git"
+  },
+  "keywords": [
+    "react as django app",
+    "react in django",
+    "react and django in one server",
+    "create react django app"
+  ],
+  "author": "Abdullah Al Noman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomanict/create-react-django-app/issues"
+  },
+  "homepage": "https://github.com/nomanict/create-react-django-app#readme"
+}
