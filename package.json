@@ -1,6 +1,6 @@
 {
   "name": "create-react-django-app",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "React and Django in one server",
   "main": "index.js",
   "bin": "index.js",
