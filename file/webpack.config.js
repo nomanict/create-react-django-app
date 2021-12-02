@@ -11,7 +11,7 @@ module.exports = {
     module: {
         rules: [
             {
-                test: /\.tsx$/,
+                test: /\.(tsx|ts)$/,
                 include: path.join(__dirname, "src"),
                 use: [
                     'babel-loader',
@@ -29,7 +29,7 @@ module.exports = {
         ]
     },
     resolve: {
-        extensions: [".tsx", ".js"],
+        extensions: [".tsx", ".ts", ".js"],
     },
     plugins: [
         new css({

@@ -13,6 +13,7 @@ const react_module = [
 const tailwindcss_mdule = [
     'css-loader',
     'mini-css-extract-plugin',
+    'postcss',
     'postcss-cli',
     'postcss-loader',
     'tailwindcss',
