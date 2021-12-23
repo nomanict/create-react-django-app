@@ -17,7 +17,9 @@ const tailwindcss_mdule = [
     'postcss-cli',
     'postcss-loader',
     'tailwindcss',
-    'autoprefixer'
+    'autoprefixer',
+    'sass',
+    'sass-loader'
 ]
 const webpack_module = [
     'webpack',

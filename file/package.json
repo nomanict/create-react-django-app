@@ -5,6 +5,6 @@
   "description": "#basename is as a Django app",
   "license": "MIT",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack --watch"
   }
 }

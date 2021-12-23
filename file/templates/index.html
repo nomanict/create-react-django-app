@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>#basename</title>
-    {% load static %}
-    <link rel="stylesheet" href="{% static '#basename.css' %}" />
-  </head>
 
-  <body>
-    <div id="#basename"></div>
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>#basename</title>
+	{% load static %}
+	<link rel="stylesheet" href="{% static '#basename.css' %}" />
+</head>
 
-    <script src="{% static '#basename.js' %}"></script>
-  </body>
+<body>
+	<noscript>You must have to enable JavaScript to run this website.</noscript>
+	<div id="#basename"></div>
+
+	<script src="{% static '#basename.js' %}"></script>
+</body>
+
 </html>
